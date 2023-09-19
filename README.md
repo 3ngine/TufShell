@@ -6,7 +6,7 @@ TufShell is a Windows Reverse Shell that is designed to bypass Windows security 
 <h2>Features</h2>
     <strong>Undetected</strong>: TufShell is designed to stay undetected by Windows security measures, including antivirus software.<br>
     <strong>Easy to Use</strong>: TufShell is designed to be easy to use, with a simple command line interface.<br>
-    <strong>Reliable</strong>: TufShell is a reliable reverse shell that works every time.
+    <strong>Reliable</strong>: TufShell is a reliable reverse shell that works every time.<br>
     <strong>Cross-platform</strong>: TufShell Server is cross-platform, which means that it can be used on both Windows and Linux systems.
 <h2>Installation</h2>
 git clone https://github.com/3ngine/tufshell.git
